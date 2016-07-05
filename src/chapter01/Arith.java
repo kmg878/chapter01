@@ -6,7 +6,7 @@ public class Arith {
 		// TODO Auto-generated method stub
 		int a=7;
 		int b=3;
-		int c=10;
+		int c=5;
 		
 		System.out.println(c);
 		System.out.println(a+b);
